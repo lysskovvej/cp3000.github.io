@@ -6,7 +6,7 @@ We are the Elsinore chapter of [CodingPirates](https://codingpirates.dk/).
 
 
 # Todo
--[ ] Sæt Stamplay holdet
--[ ] Sæt Ionic holdet
+- [ ] Sæt Stamplay holdet
+- [ ] Sæt Ionic holdet
 
 
