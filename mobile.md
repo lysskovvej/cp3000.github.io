@@ -10,3 +10,4 @@ Foråret 2017 vil gå med at lave frontend i Ionic Creator samt backend i StamPl
 
 
 
+Check [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
