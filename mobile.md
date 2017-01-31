@@ -4,7 +4,7 @@
 Foråret 2017 vil gå med at lave frontend i Ionic Creator samt backend i StamPlay 
 
 # Todo
-- [ ] Sæt Stamplay holdet
+- [x] Sæt [Stamplay holdet](stamplay.md)
 - [ ] Sæt Ionic holdet
 - [ ] Hvordan vi arbejder sammen
 
