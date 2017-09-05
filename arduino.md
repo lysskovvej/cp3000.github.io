@@ -14,7 +14,7 @@
 
 Start med at åbne TinkerCad Circuits fra linket ovenfor (opret konto eller log ind). I TinkerCad kan man både skrive kode og lave elektriske kredsløb.
 
-Start med at tilføje en Arduino Uno. Klik derefter på `Code Editor`, for at se standardkoden de har tilføjet:
+Start med at tilføje en Arduino Uno. Klik derefter på **Code Editor**, for at se standardkoden de har tilføjet:
 ```c
 // Pin 13 has an LED connected on most Arduino boards.
 // give it a name:
@@ -78,11 +78,11 @@ void loop() {
 
 ### Kør programmet
 
-I Code Editor vinduet: Klik på Upload & Run og se at dioden `L` blinker gult på Arduinoen.  Først er den tændt i et sekund, derefter slukket i et sekund.
+I Code Editor vinduet: Klik på **Upload & Run** og se at dioden `L` blinker gult på Arduinoen.  Først er den tændt i et sekund, derefter slukket i et sekund.
 
 ### Byg elektrisk kredsløb
 
-Klik på `Stop Simulation` og dernæst på `+ Components` og tilføj:
+Klik på **Stop Simulation** og dernæst på **+ Components** og tilføj:
 
 - 1 Breadboard Small
 - 1 Resistor (modstand)
